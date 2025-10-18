@@ -10,6 +10,7 @@ Although the codebase was developed collaboratively during the hackathorn and is
 
 ----
 ##Demo Video
-
+[Watch Demo](./Demo.mp4)
 
 ##Presentation Slides 
+[View Slides (PDF)](./)
