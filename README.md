@@ -7,7 +7,8 @@ Placed third in KZN - GirlCode Hackathorn (October 2025)
 -----
 
 ## Demo Video
-[Demo.mp4](https://github.com/Varushka04/SmartGrocer/raw/main/Demo.mp4)
+-When you open the link please download the video
+[Demo.mp4](https://github.com/Varushka04/SmartGrocer/raw/main/Demo.mp4) 
 
 ## Presentation Slides 
 [View Slides (PDF)](./Green%20and%20Yellow%20Illustrative%20Financial%20Management%20Presentation%20(4).pdf)
